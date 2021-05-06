@@ -2,7 +2,7 @@
 
 A very simple python script for setting a timer that ends with a Windows notification.
 
-I personally use it to set my [Pomodoro intervals](https://en.wikipedia.org/wiki/Pomodoro_Technique) for my study sessions.
+I personally use it to set [Pomodoro intervals](https://en.wikipedia.org/wiki/Pomodoro_Technique) for my study sessions.
 
 ## Setup
 
