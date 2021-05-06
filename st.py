@@ -1,5 +1,5 @@
 """
-A simple timer that takes an integer in seconds and then displays a countdown. Displays a windows notification when finished.
+A simple timer that takes an integer in milliseconds and then displays a countdown timer. Displays a windows notification when finished.
 """
 
 import sys
