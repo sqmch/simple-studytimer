@@ -4,7 +4,7 @@ A very simple python script for setting a timer that ends with a Windows notific
 
 I personally use it to set my [Pomodoro intervals](https://en.wikipedia.org/wiki/Pomodoro_Technique) for my study sessions.
 
-## How to use
+## Setup
 
 Create a virtual environment:
 ```
@@ -14,6 +14,8 @@ Install dependencies:
 ```
 pip install -r requirements.txt
 ```
+
+## How to use:
 Run script with desired interval in ms (ex. 1500 for 25min):
 ```
 py st.py 1500
