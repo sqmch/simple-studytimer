@@ -28,7 +28,7 @@ I recommend setting an alias for convenience. How to set one varies a bit based 
 PowerShell example (replace path):
 ```
 function StudyTimer {python C:\dev\py\simple-studytimer\st.py 1500}
-Set-Alias st STimer
+Set-Alias st StudyTimer
 ```
 
 The above will make the command "st" start a 25min timer that ends with a Windows notification.
