@@ -31,4 +31,4 @@ function StudyTimer {python C:\dev\py\simple-studytimer\st.py 1500}
 Set-Alias st STimer
 ```
 
-The above will make the command "st" start a 25min timer.
+The above will make the command "st" start a 25min timer that ends with a Windows notification.
