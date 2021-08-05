@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ## How to use:
 Run script with desired interval in ms (ex. 1500 for 25min):
 ```
-py st.py 1500
+python st.py 1500
 ```
 
 ---
