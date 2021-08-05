@@ -25,12 +25,10 @@ py st.py 1500
 
 I recommend setting an alias for convenience. How to set one varies a bit based on the type of terminal used. The alias will let you start the timer from anywhere on your CLI by just typing the chosen alias, for example "st".
 
-I use [cmder](https://cmder.net/) and the way to set an alias on cmder is:
+PowerShell example (replace path):
 ```
-alias <name_of_alias>=cd c:/your_path/to_script_folder &t py st.py <your_desired_interval>
+function StudyTimer {python C:\dev\py\simple-studytimer\st.py 1500}
+Set-Alias st STimer
 ```
-Example:
-```
-alias st=cd c:/pythonprojects/studytimer &t py st.py 1500
-```
+
 The above will make the command "st" start a 25min timer.
