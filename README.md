@@ -32,3 +32,5 @@ Set-Alias st StudyTimer
 ```
 
 The above will make the command "st" start a 25min timer that ends with a Windows notification.
+
+Note that you may need to put those lines in your profile.ps file so that they run each time. You can easily find the file by running the ```ècho $profile``` command.
